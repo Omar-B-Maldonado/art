@@ -60,3 +60,7 @@ footer {
 footer p {
   margin-bottom: .25rem;
 }
+
+footer h5 {
+  color: black;
+}
